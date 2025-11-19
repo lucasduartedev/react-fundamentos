@@ -1,0 +1,7 @@
+:root {
+    --cor-cinza: #5C5B5B;
+}
+
+*{
+    color: var(--cor-cinza);
+}
